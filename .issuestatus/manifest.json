@@ -1,6 +1,6 @@
 {
-  "short_name": "Issue Status",
-  "name": "Simple, modern and flexible status page",
+  "short_name": "Fab:Status",
+  "name": "Status page for Fab:IT Services",
   "icons": [
     {
       "src": "favicon.ico",
@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://tadhglewis.github.io/issue-status",
+  "start_url": "https://jrisch.github.io/issue-status",
   "display": "standalone",
   "theme_color": "#3da751"
 }
